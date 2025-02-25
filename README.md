@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue, Angular, TypeScript, Swift,...**
 
-- 👨‍💻 All of my projects are available at [tuanhuynhportfolio.netlify.app](tuanhuynhportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [tuanhuynhportfolio.netlify.app](https://tuanhuynhportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/anhtuanhuynh0402/](https://www.linkedin.com/in/anhtuanhuynh0402/)
 
