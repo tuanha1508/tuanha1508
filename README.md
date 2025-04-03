@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuanha1508" alt="tuanha1508" /></a> </p>
 
-- 🔭 I’m currently working on [AIResume](https://github.com/tuanha1508/ai_resume)
+- 🔭 I’m currently working on [Vortexify](https://github.com/tuanha1508/Vortexify)
 
 - 🌱 I’m currently learning **Vue, Angular, TypeScript, Swift,...**
 
