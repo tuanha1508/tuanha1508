@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Keploy API](https://github.com/tuanha1508/keploy)
 
-- 🌱 I’m currently learning **Vue, Angular, TypeScript, Swift,...**
+- 🌱 I’m currently learning **Vue, React, TypeScript, Swift,...**
 
 - 👨‍💻 All of my projects are available at [tuanhuynhportfolio.netlify.app](https://tuanhuynhportfolio.netlify.app/)
 
