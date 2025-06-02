@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anh Tuan Huynh</h1>
-<h3 align="center">A passionate frontend developer willing to work everywhere, everytime!!!</h3>
+<h3 align="center">A passionate full stack web developer willing to work everywhere, everytime!!!</h3>
 
 - 🔭 I’m currently working on [Keploy API](https://github.com/tuanha1508/keploy)
 
