@@ -1,6 +1,5 @@
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=tuanha)
 [![tuanha1508's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuanha1508&theme=high-contrast)](https://github.com/tuanha1508/github-readme-activity-graph)
-![Top Langs](https://github-readme-stats-tuanha1508s-projects.vercel.app/api/top-langs/?username=tuanha1508&layout=compact)
 <h1 align="center">Hi 👋, I'm Anh Tuan Huynh</h1>
 <h3 align="center">A passionate full stack web developer willing to work everywhere, everytime!!!</h3>
 
