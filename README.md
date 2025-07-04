@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/tuanha1508/My-Resume](https://github.com/tuanha1508/My-Resume)
 
-- ⚡ Fun fact **I'm a funny person so feel free to connect with me for anything not only jobs!!!**
+- ⚡ Fun fact **I'm a funny person so feel free to connect with me for anything not only jobs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
