@@ -2,19 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anh Tuan Huynh</h1>
 <h3 align="center">A passionate full stack web developer willing to work everywhere, everytime!!!</h3>
 
-- 🔭 I’m currently working on [Keploy API](https://github.com/tuanha1508/keploy)
-
-- 🌱 I’m currently learning **Vue, React, TypeScript, Swift,...**
-
-- 👨‍💻 All of my projects are available at [tuanhuynhportfolio.netlify.app](https://tuanhuynhportfolio.netlify.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/anhtuanhuynh0402/](https://www.linkedin.com/in/anhtuanhuynh0402/)
-
-- 💬 Ask me about **C++, Python, JavaScript, HTML, CSS**
-
-- 📫 How to reach me **tuanafk2006@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/tuanha1508/My-Resume](https://github.com/tuanha1508/My-Resume)
+- 📫 How to reach me **tuanhuynh.work@gmail.com**
 
 - ⚡ Fun fact **I'm a funny person so feel free to connect with me for anything not only jobs!**
 
