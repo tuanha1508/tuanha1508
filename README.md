@@ -6,6 +6,4 @@
       <img alt="Anh Tuan Huynh — neofetch-style profile" src="./dark_mode.svg" />
     </picture>
   </a>
-  <br />
-  <img alt="a fish swimming back and forth" src="./fish.svg" width="620" />
 </div>
